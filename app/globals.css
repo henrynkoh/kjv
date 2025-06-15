@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  font-family: 'Helvetica', sans-serif;
+  background-color: #f3f3f3;
+}
+
+.header {
+  background-color: rgb(74,74,74);
+  color: white;
+}
+
+.row {
+  background-color: rgb(243,243,243);
+} 
